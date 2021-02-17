@@ -1,1 +1,2 @@
 Android OS is a Linux based operating system. This mobile operating system was designed by Google for smart phones. Many different phone manufacturers use Android as their operating system.
+iOS is Apple's operating system for mobile phones. It is specifically made for Apple devices only. It has a voice recognition app called Siri.
